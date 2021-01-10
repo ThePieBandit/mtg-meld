@@ -1,0 +1,13 @@
+Breeding Pool=
+Rejuvenating Springs=
+Rhystic Study=
+Sage of Hours=Illusionary Mask
+Craterhoof Behemoth=
+Fathom Seer=Kadena's Silencer
+Thornwood Falls=Tropical Island
+Dance of the Dead=Chains of mephistopheles
+Barkchannel Pathway=Tidechannel Pathway
+Forest=Verdant Catacombs
+Spark Double=Chandra, torch of defiance
+Nicol Bolas, Planeswalker=Nicol Bolas, the Ravager
+Ulrich of the Krallenhorde=Ulrich, Uncontested Alpha
