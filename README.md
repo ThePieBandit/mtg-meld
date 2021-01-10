@@ -7,9 +7,8 @@ I have two main use cases behind developing this script. The first is that Magic
 
 While we're talking about Mana Crypt, it's important to note this is a pretty powerful card. Commander, one of my favorite formats, is all about the social experience, and it's important to get a good idea the relative power level of the decks at your table before choosing which deck to play. Sometimes, though, you REALLY want to play a certain commander. I've recently wanted to play around with having a transformable deck, which led me to design the melded proxies you can generate with this tool. Here's a great example for this use case: I have an Ezuri, Claw of Progress deck based around the morph mechanic. Ezuri, once you have 5 experience counters, goes infinite with Sage of Hours. Some playgroups may not want to play with infinite combos. But rather than have to resleeve my deck after replacing a card, I can simply say that for the game, I am using only the bottom half of my proxy cards, which replaces the card in the deck with a less powerful one. This allows me to change my deck's power level on the fly depending upon my group.
 
-[sample proxy]
+![sample proxy](https://raw.githubusercontent.com/ThePieBandit/mtg-meld/main/docs/Sage_Of_Hours%23Illusionary_Mask.png)
 
-[sample proxy]: ./docs/Sage_Of_Hours#Illusionary_Mask.png
 
 ## How to use
 
